@@ -13,18 +13,18 @@ The proposed lens aims to make content creation more accessible for the deaf com
 How we built it
 This lens was built using Lens Studio and Javascript. A machine learning model was created incorporating transfer learning and image augmentation using the MobileNetV2 architecture from Tensorflow Hub and the American Sign Language dataset. The model was fine-tuned using Tensorflow and Keras API and had a final validation accuracy of 92%.
 
-Challenges we ran into
+Challenges we ran into<br />
 The challenges that we ran into were: • Model performance was not up to the desired standards due to limitations of the device's processing power and memory capabilities, leading to slower inference speeds and lower accuracy. • Integration of the model into the AR lens required a lot of optimization and fine-tuning to ensure smooth performance on mobile devices. • Maintaining and updating the model to keep up with sign language changes and improve recognition accuracy was a continuous challenge. • Getting the lens to work on a wide range of devices with different processing power and memory capabilities was challenging due to compatibility issues. • Achieving higher accuracy and reducing overfitting by using advanced techniques like Transfer Learning and Fine-Tuning. • Developing a highly scalable and efficient application by utilizing cloud computing and big data technologies. • Developing a user-friendly interface and making the application accessible to non-technical users. • Integrating various APIs and integrating the model with other systems. • Receiving positive feedback from users and making a real-world impact with the model
 
-Accomplishments that we're proud of
+**Accomplishments that we're proud of** <br />
 Building an app that helps typing-disabled people type using hand gestures is a proud accomplishment. The app, called the "Gesture-Type," allows people with disabilities to participate in social media and express themselves in new ways. Not only does it provide a solution for the disabled community, but it also serves as a tool for others to learn and understand the challenges faced by the disabled. By creating this app, you have made a positive impact on many people's lives and have helped to promote inclusivity in technology.
 
-What we learned
+What we learned<br />
 Things that we learned are: • Transfer Learning and Fine-tuning • Building and Training Convolutional Neural Networks • Using Pretrained Models such as ResNet, Inception, VGG and more • Hyperparameter Tuning and Regularization Techniques • Understanding and Visualizing Convolutional Neural Network Models. • Using sign language
 
-What's next for Gesture Type
-The next version of Gesture Type will have:
+What's next for Gesture Type<br />
+The next version of Gesture Type will have:<br />
 
-Integrating this lens into much more disabilities exist
-Expand this idea from the lens to other platforms so that it reaches every interested people
-Creating a more extensive database so that we can test and train the model more accurately
+1.Integrating this lens into much more disabilities exist.<br />
+2.Expand this idea from the lens to other platforms so that it reaches every interested people.<br />
+3.Creating a more extensive database so that we can test and train the model more accurately.<br />
