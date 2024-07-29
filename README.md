@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/6043e6c2-a0ff-4d21-b0dc-bd5eecd55a9c
 
 One fine day I went for a charity run, and I met one of my dearest friend who was born disabled. She always looks at her fellow friend busy on social media but can't find herself attached, so I decided to build something that can make her feel included through social media. It has been developed by using machine learning to classify various hand motions into American Sign Language in real time. This lens not only provides accurate and precise transcriptions but also displays the text in augmented reality, enhancing the user experience. With the added convenience of being able to toggle live predictions on and off simply by tapping the screen, this lens serves as a valuable tool for bridging the communication gap between hearing and deaf individuals.
 
-**How we built it:**
+**What it does:**
 
 The proposed lens aims to make content creation more accessible for the deaf community by transcribing American Sign Language in real time. It will help bridge the communication gap and empower individuals with a new way to express themselves without the need for captions. Additionally, the lens can also serve as a valuable tool for those learning ASL by providing real-time feedback and improving their sign language skills. The lens is a novel solution to a long-standing challenge, and its potential to change the lives of those who use it is immense.
 
