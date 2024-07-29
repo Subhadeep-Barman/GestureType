@@ -22,7 +22,8 @@ The challenges that we ran into were:<br /> • Model performance was not up to 
 Building an app that helps typing-disabled people type using hand gestures is a proud accomplishment. The app, called the "Gesture-Type," allows people with disabilities to participate in social media and express themselves in new ways. Not only does it provide a solution for the disabled community, but it also serves as a tool for others to learn and understand the challenges faced by the disabled. By creating this app, you have made a positive impact on many people's lives and have helped to promote inclusivity in technology.
 
 **What we learned:**<br />
-Things that we learned are: <br />• Transfer Learning and Fine-tuning • Building and Training Convolutional Neural Networks<br /> • Using Pretrained Models such as ResNet, Inception, VGG and more <br />• Hyperparameter Tuning and Regularization Techniques<br /> • Understanding and Visualizing Convolutional Neural Network Models<br /> • Using sign language
+Things that we learned are: <br />
+• Transfer Learning and Fine-tuning<br /> • Building and Training Convolutional Neural Networks<br /> • Using Pretrained Models such as ResNet, Inception, VGG and more <br />• Hyperparameter Tuning and Regularization Techniques<br /> • Understanding and Visualizing Convolutional Neural Network Models<br /> • Using sign language
 
 **What's next for Gesture Type:**<br />
 The next version of Gesture Type will have:<br />
